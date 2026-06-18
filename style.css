@@ -23,7 +23,7 @@ nav{
     padding: 0px 2%;
     justify-content: space-between;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    background: #fff;
+    background: white;
     position: sticky;
     top: 0;
     z-index: 10;
@@ -78,7 +78,7 @@ border-radius: 50%;
 
 /* sidebar */
 .sidebar{
-    background-image: linear-gradient(rgb(252, 252, 252), pink);
+    background-image: linear-gradient( rgb(152, 197, 218),whitesmoke);
     width: 15%;
     height: 100vh;
     position: fixed;
